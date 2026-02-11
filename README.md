@@ -25,7 +25,7 @@ The goal is to perform end-to-end Machine Learning analysis using a student plac
 
 ## 📁 Dataset Used
 
-**File Name:** `collegePlace_salary_random_inverse.csv`
+**File Name:** `collegePlace.csv`
 
 ### Features:
 
@@ -39,9 +39,9 @@ The goal is to perform end-to-end Machine Learning analysis using a student plac
 
 ### Target Variable:
 
-* Salary / PlacedOrNot (used for regression analysis)
+*   PlacedOrNot (used for regression analysis)
 
-Synthetic salary values were generated with controlled randomness while maintaining an inverse relationship with CGPA for experimental analysis.
+
 
 ---
 
@@ -142,7 +142,7 @@ Synthetic salary values were generated with controlled randomness while maintain
 
 ```
 Student-Placement-Linear-Regression/
-│── collegePlace_salary_random_inverse.csv
+│── collegePlace.csv
 │── Linear_Regression_Assignment.ipynb
 │── README.md
 ```
